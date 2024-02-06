@@ -72,3 +72,8 @@
 
 - [favico 생성](https://realfavicongenerator.net/)
   - theme 색: #E6D2DC
+
+## 도메인 관련
+
+- [가비아](https://www.gabia.com/)에서 도메인 구입
+  - [가이드](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) 참고해 도메인 IP 할당
